@@ -1,1 +1,0 @@
-# Mediapipe-tflite-object-detection-
